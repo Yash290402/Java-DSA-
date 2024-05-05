@@ -1,4 +1,5 @@
 // Given a number N.The task is to generate and print all binary numbers with decimal values from 1 to N.
+package PracticeQuestions;
 
 import java.util.LinkedList;
 import java.util.Queue;
