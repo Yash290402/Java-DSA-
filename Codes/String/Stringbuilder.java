@@ -7,8 +7,8 @@ public class Stringbuilder {
         System.out.println(sb);
     }
 
-    public void append(char ch) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'append'");
-    }
+    // public void append(char ch) {
+    //     // TODO Auto-generated method stub
+    //     throw new UnsupportedOperationException("Unimplemented method 'append'");
+    // }
 }

@@ -10,9 +10,9 @@ public class substring {
 
     public static void main(String[] args) {
         String str = "helloworld";
-        // System.out.println(getsubstring(str, 0, 6));
+        System.out.println(getsubstring(str, 0, 6));
 
         // also inbuilt function on java
-        System.out.println(str.substring(0,5));
+        // System.out.println(str.substring(0,5));
     }
 }
